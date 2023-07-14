@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name                 Xbox CLoud Gaming优化整合样式
-// @name:zh-CN           Xbox CLoud Gaming优化整合样式
+// @name                 Xbox CLoud Gaming tối ưu
+// @name:zh-CN           Xbox CLoud Gaming tối ưu
 // @namespace            http://tampermonkey.net/xbox/nftcss
 // @version              0.0.1
 // @author               奈非天
 // @match                https://www.xbox.com/*/play*
 // @run-at               document-start
-// @description:zh-cn    Xbox CLoud Gaming优化整合样式方便更新
-// @description          Xbox CLoud Gaming优化整合样式方便更新
+// @description:zh-cn    Xbox CLoud Gaming tối ưu
+// @description          Xbox CLoud Gaming tối ưu
 // ==/UserScript==
 (function() {
 
